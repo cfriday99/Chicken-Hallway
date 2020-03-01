@@ -9,8 +9,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7141735770471174805}
-  - component: {fileID: 2181866919172090019}
-  - component: {fileID: 5583061713842230362}
+  - component: {fileID: -5178661895559278292}
+  - component: {fileID: -1504981713932161579}
   m_Layer: 0
   m_Name: GPA3_Wall
   m_TagString: Untagged
@@ -26,21 +26,21 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6145112217033662598}
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 28.052948, y: 29.990067, z: 7.55894}
+  m_LocalPosition: {x: -0, y: 5.301553, z: 0}
   m_LocalScale: {x: 8.502894, y: 0.27451986, z: 16.66405}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &2181866919172090019
+--- !u!33 &-5178661895559278292
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6145112217033662598}
-  m_Mesh: {fileID: 4068373912626513877, guid: 770505320c182924db5d06dd44edc17c, type: 3}
---- !u!23 &5583061713842230362
+  m_Mesh: {fileID: 4068373912626513877, guid: 91e391c90e8057144a861ee7c008fbf5, type: 3}
+--- !u!23 &-1504981713932161579
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
