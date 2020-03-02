@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 7141735770471174805}
   - component: {fileID: -5178661895559278292}
   - component: {fileID: -1504981713932161579}
+  - component: {fileID: 7102351864389980357}
   m_Layer: 0
   m_Name: GPA3_Wall
   m_TagString: Untagged
@@ -78,3 +79,16 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &7102351864389980357
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6145112217033662598}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.0000001, y: 1.0000002, z: 0.99999994}
+  m_Center: {x: -0.00000002980233, y: 0, z: 0}
